@@ -1,0 +1,6 @@
+serviceName: mmagent01
+
+envs:
+  - name: dev
+    depends: None
+    cluster: cnoe-ref-impl
