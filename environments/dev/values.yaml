@@ -2,7 +2,7 @@ agentName: mmagent01
 envName: dev
 agentRuntimeName: mmagent01_dev
 imageRepo: 229560443702.dkr.ecr.us-west-2.amazonaws.com
-tag: 0.0.0
+tag: 7656e24fcc3f16bd08b1611d7dc39e1f64fda291
 roleArn: arn:aws:iam::229560443702:role/service-role/AmazonBedrockAgentCoreRuntimeDefaultServiceRole
 cloudWatchLogTailRoleArn: arn:aws:iam::229560443702:role/cnoe-refl-cw-logs-tail
 agentRuntimeID: demoagent002_dev-P57qHb5iUO
